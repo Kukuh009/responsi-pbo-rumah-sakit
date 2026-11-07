@@ -1,11 +1,11 @@
 # Responsi Akhir Praktikum PBO - Sistem Rumah Sakit
 
 ## Identitas
-| | |
-|---|---|
-| Nama | **(isi nama lengkap)** |
-| NIM | **(isi NIM, digit terakhir 7)** |
-| Tema | **Rumah Sakit** (digit terakhir NIM 6 dan 7) |
+| |                                                              |
+|---|--------------------------------------------------------------|
+| Nama | **(KUKUH ABDULOH KURNIAWAN)**                                |
+| NIM | **(H1D025017, digit terakhir 7)**                            |
+| Tema | **Rumah Sakit** (digit terakhir NIM 6 dan 7)                 |
 | Jurusan | Informatika, Fakultas Teknik, Universitas Jenderal Soedirman |
 
 ## Struktur Project
@@ -43,10 +43,9 @@ Di Windows PowerShell/CMD: `javac -d out src\*.java` lalu `java -cp out Main`.
 | 9 | Polimorfisme Interface | `Pemeriksa p = new Dokter(...)` di `Main` |
 | 10 | Multiple Interface | `Dokter implements Pemeriksa, PenangananDarurat` |
 
-## Luaran Program
-(Tempel screenshot hasil run di sini, contoh: `![hasil](screenshot.png)`)
+![img.png](img.png)
+![img_1.png](img_1.png)
 
-Contoh keluaran teks:
 ```
 === SISTEM RSUD SEHAT SENTOSA ===
 
